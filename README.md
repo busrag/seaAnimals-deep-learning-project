@@ -28,7 +28,7 @@ Grafikler üzerinden yapılan analizde ise,
 
 ## 🐟 Ekler
 
-* GPU hızlandırma kullanarak modelin daha kısa sürede eğitilmesi sağladım.
+* GPU hızlandırma kullanarak modelimin daha kısa sürede eğitilmesini sağladım.
 
 ## 🐟 Sonuç ve Gelecek Çalışmalar
 
