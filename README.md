@@ -39,7 +39,7 @@ Grafikler üzerinden yapılan analizde ise,
 
 ✿ Projem kapsamında temel bir görsel sınıflandırma modelini görece başarıyla uyguladım. Transfer learning sayesinde düşük epoch sayıları ile anlamlı doğruluk değerlerine ulaşabildim.
 
-Gelecek çalışmalarım için planladığım adımlar şunlardır:
+Gelecek çalışmalarım için planladığım adımlar şunlar:
 
 * Kesinlikle daha büyük ve çeşitlendirilmiş veri setleriyle modeli geliştirmek :')
 
