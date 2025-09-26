@@ -19,7 +19,7 @@ Grafikler üzerinden yapılan analizde ise,
 
 * Başlangıçta underfitting etkisi gözlendi, epoch ilerledikçe de doğruluk arttı.
 
-* Validation loss’un düşük ve stabil kalması, modelin genelleme yeteneğinin güçlü olduğunu göstermektedir. ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
+* Validation loss’un düşük ve stabil kalması, modelin genelleme yeteneğinin fena olmadığını gösteriyor. ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
 
   <img width="925" height="599" alt="image" src="https://github.com/user-attachments/assets/ecfabd04-1a43-47b9-8a87-e76967171d16" />
 
