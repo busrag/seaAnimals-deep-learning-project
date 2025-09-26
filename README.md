@@ -2,12 +2,12 @@
 
 ## 🐟 Giriş
 
-✿ Bu projede **görsel sınıflandırma** üzerine bir derin öğrenme çalışması gerçekleştirdim. 
-✿ Kullandığım veri seti **sea-animals-image-dataste** (evet dataste yazmışlar :')) su altı canlılarından oluşuyor. Referans aldığım hazır veri setinde bulunan mercan ve balık sınıflarındaki görselleri, sayın tüplü dalış eğitmenim **Serhan İlhan**'ın su altı fotoğraflarından yine mercan ve balık görselleri ile aynı sınıflarda birleştirdim.
-✿ Görselleri ön işleme adımlarıyla normalize edip **train, validation ve test setlerine** ayırdım.
-✿ Modelleme aşamasında Transfer Learning yöntemlerinden VGG16 tabanlı bir yapı kullandım. Böylece önceden büyük veri setleri üzerinde eğitilmiş güçlü bir temel kullanarak modelimin daha hızlı ve daha başarılı bir şekilde öğrenmesini sağladım.
-✿ Modelin son katmanlarını serbest bırakarak fine-tuning yaptım ve eklenen Dense + Dropout katmanları ile özelleştirilmiş sınıflandırma sağladım. ⊹₊⟡⋆ Çünkü modelimin kendi veri setime özgü ayrıntıları da öğrenebilmesini istiyordum. ⊹₊⟡⋆
-✿ Ayrıca Keras Tuner kütüphanesi kullanarak en iyi hiperparametreleri (optimizer, dense units, dropout oranı) seçtim. Eğitim sürecinde EarlyStopping gibi callback mekanizmaları kullanarak modelin aşırı öğrenmesini engellemeye çalıştım.
+* ✿ Bu projede **görsel sınıflandırma** üzerine bir derin öğrenme çalışması gerçekleştirdim. 
+* ✿ Kullandığım veri seti **sea-animals-image-dataste** (evet dataste yazmışlar :')) su altı canlılarından oluşuyor. Referans aldığım hazır veri setinde bulunan mercan ve balık sınıflarındaki görselleri, sayın tüplü dalış eğitmenim **Serhan İlhan**'ın su altı fotoğraflarından yine mercan ve balık görselleri ile aynı sınıflarda birleştirdim.
+* ✿ Görselleri ön işleme adımlarıyla normalize edip **train, validation ve test setlerine** ayırdım.
+* ✿ Modelleme aşamasında Transfer Learning yöntemlerinden VGG16 tabanlı bir yapı kullandım. Böylece önceden büyük veri setleri üzerinde eğitilmiş güçlü bir temel kullanarak modelimin daha hızlı ve daha başarılı bir şekilde öğrenmesini sağladım.
+* ✿ Modelin son katmanlarını serbest bırakarak fine-tuning yaptım ve eklenen Dense + Dropout katmanları ile özelleştirilmiş sınıflandırma sağladım. ⊹₊⟡⋆ Çünkü modelimin kendi veri setime özgü ayrıntıları da öğrenebilmesini istiyordum. ⊹₊⟡⋆
+* ✿ Ayrıca Keras Tuner kütüphanesi kullanarak en iyi hiperparametreleri (optimizer, dense units, dropout oranı) seçtim. Eğitim sürecinde EarlyStopping gibi callback mekanizmaları kullanarak modelin aşırı öğrenmesini engellemeye çalıştım.
 
 ## 🐟 Metrikler
 
