@@ -21,12 +21,47 @@ Grafikler üzerinden yapılan analizde ise,
 
 * Validation loss’un düşük ve stabil kalması, modelin genelleme yeteneğinin güçlü olduğunu göstermektedir. ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
 
-  <img width="1001" height="605" alt="image" src="https://github.com/user-attachments/assets/2773a7a5-af48-4b7a-aa78-6bd358a11e5d" />
-  <img width="956" height="634" alt="image" src="https://github.com/user-attachments/assets/df0ed4d1-059e-47f4-ab61-e2a351f04c0a" />
+  <img width="925" height="599" alt="image" src="https://github.com/user-attachments/assets/ecfabd04-1a43-47b9-8a87-e76967171d16" />
+
+  <img width="925" height="627" alt="image" src="https://github.com/user-attachments/assets/17e40524-2df2-43b9-9806-f8c0acc87275" />
+
 
 ## 🐟 Ekler
 
 * GPU hızlandırma kullanarak modelin daha kısa sürede eğitilmesi sağladım.
+
+## 🐟 Sonuç ve Gelecek Çalışmalar
+
+Projem kapsamında temel bir görsel sınıflandırma modelini görece başarıyla uyguladım. Transfer learning sayesinde düşük epoch sayıları ile anlamlı doğruluk değerlerine ulaşabildim.
+
+Gelecek çalışmalarım için planladığım adımlar şunlardır:
+
+* Kesinlikle daha büyük ve çeşitlendirilmiş veri setleriyle modeli geliştirmek :')
+
+* Modeli Streamlit veya Flask tabanlı bir arayüz ile deploy etmek.
+
+* Gerçek zamanlı veri toplama ve canlı sınıflandırma özellikleri eklemek.
+
+
+## 🐟 Lİnkler
+
+https://www.kaggle.com/code/busraertekin/sea-animals-classification-project
+
+
+Kaggle kitty sunar! İnceleme için teşekkürler ⸜(｡˃ ᵕ ˂)⸝♡
+<img width="126" height="88" alt="image" src="https://github.com/user-attachments/assets/36c7817d-c020-4036-b439-f9cc0d199472" /> 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
